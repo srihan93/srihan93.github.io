@@ -2,14 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+A software engineer, blogger working on Microsoft Technologies in a Service Based Organization.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+The blog is to help developers to provide in depth knowledge tutorials along with  functional source code that is available as Github Repositories. With every article, you will be seeing a linked Github Repository, fully tested. 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mohanraj.raja.tech@gmail.com](mohanraj.raja.tech@gmail.com)
